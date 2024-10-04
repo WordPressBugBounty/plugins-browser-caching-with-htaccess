@@ -1,0 +1,1 @@
+# plugins-browser-caching-with-htaccess
